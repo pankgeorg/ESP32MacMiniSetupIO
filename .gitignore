@@ -1,0 +1,16 @@
+# Your real settings (Wi-Fi password, access token) - never commit
+config.h
+
+# Build output / caches
+build/
+*.bin
+*.elf
+*.map
+__pycache__/
+*.pyc
+
+# Editor / OS noise
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
